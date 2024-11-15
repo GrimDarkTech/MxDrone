@@ -1,0 +1,27 @@
+[
+  {
+    "AlbedoMap": "Models/albedo_0.png",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.7999999523162842,
+    "EmissiveMap": "Models/E:\\working_projects\\Drone_4\\texture\\1\\Drone_Material_Emissive.png",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "Models/E:\\working_projects\\Drone_4\\texture\\1\\Drone_Material_Metallic.png",
+    "Name": "Material",
+    "NormalMap": "Models/E:\\working_projects\\Drone_4\\texture\\1\\Drone_Material_Normal.png",
+    "RoughnessFactor": 0.33181822299957275,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  }
+]

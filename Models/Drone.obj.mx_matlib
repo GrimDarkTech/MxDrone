@@ -1,0 +1,452 @@
+[
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "DefaultMaterial",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Metal_Parts",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Body",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Body_Logo",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Nuts",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Motor",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Stand",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Blades",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Blades_White",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Fan_Guard",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Battery",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Battery_Logo",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Camera",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Camera_Logo",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Camera_Lens_Black",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Camera_lens_glass",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Black_Camera",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "AlbedoMap": "",
+    "AlphaMask": false,
+    "AmbientOcclusionMap": "",
+    "BaseColor": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "Displacement": 0.0,
+    "Emission": 0.0,
+    "EmissiveMap": "",
+    "HeightMap": "",
+    "MetallicFactor": 0.0,
+    "MetallicMap": "",
+    "Name": "Glass",
+    "NormalMap": "",
+    "RoughnessFactor": 0.75,
+    "RoughnessMap": "",
+    "Transparency": 1.0,
+    "UVMultipliers": [
+      1.0,
+      1.0
+    ]
+  }
+]
